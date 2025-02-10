@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		04F766D32D3B0276004CD1E3 /* libncurses.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 04F766D22D3B0276004CD1E3 /* libncurses.tbd */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		04F766B62D3AC56C004CD1E3 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -20,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		04F766B82D3AC56C004CD1E3 /* 2048 Game */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "2048 Game"; sourceTree = BUILT_PRODUCTS_DIR; };
+		04F766D22D3B0276004CD1E3 /* libncurses.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libncurses.tbd; path = usr/lib/libncurses.tbd; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -35,6 +40,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04F766D32D3B0276004CD1E3 /* libncurses.tbd in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -45,6 +51,7 @@
 			isa = PBXGroup;
 			children = (
 				04F766BA2D3AC56C004CD1E3 /* 2048 Game */,
+				04F766D12D3B0276004CD1E3 /* Frameworks */,
 				04F766B92D3AC56C004CD1E3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,6 +62,14 @@
 				04F766B82D3AC56C004CD1E3 /* 2048 Game */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		04F766D12D3B0276004CD1E3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				04F766D22D3B0276004CD1E3 /* libncurses.tbd */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -245,6 +260,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 14.6;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -253,6 +269,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				"LIBRARY_SEARCH_PATHS[arch=*]" = "";
+				MACOSX_DEPLOYMENT_TARGET = 14.6;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

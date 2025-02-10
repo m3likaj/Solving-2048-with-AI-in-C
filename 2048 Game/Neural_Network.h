@@ -8,6 +8,28 @@
 #ifndef Neural_Network_h
 #define Neural_Network_h
 
-#include <stdio.h>
+
+typedef struct neuron{
+    double * inputs;
+    double * weights;
+    double   output;
+       int   num_of_inputs;
+} Neuron;
+//************************************************************
+
+typedef struct layer {
+       int   number_of_neurons;
+    Neuron * neurons;
+    double * outputs;
+    void(*activate)(double*, int);
+    double(*error)(double*, double*);
+}Layer;
+//************************************************************
+
+
+double dot_product(int size, double* vec_a, double* vec_b);
+void random_parameters(Neuron* N, int size);
+
+
 
 #endif /* Neural_Network_h */
