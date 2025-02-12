@@ -1,0 +1,24 @@
+# ninja log v6
+30	304	1739261534910864400	CMakeFiles/MyProject.dir/game_logic.c.o	1f260482369ad6e1
+8	182	1739261625539031900	CMakeFiles/MyProject.dir/layer.c.o	4677dcbbd3f2da75
+49	319	1739261534930487800	CMakeFiles/MyProject.dir/helper_functions.c.o	ee989f68a54da7a9
+6	333	1739261534887817900	CMakeFiles/MyProject.dir/main.c.o	c2d26fec53e5e669
+124	359	1739261535005566800	CMakeFiles/MyProject.dir/neural_network.c.o	fad1433dffe3ae92
+99	385	1739261534980185600	CMakeFiles/MyProject.dir/matrix_operations.c.o	f690df63825f2c37
+183	385	1739261625713472800	MyProject.exe	107de7ad4d4debc8
+12	318	1739269269431416300	CMakeFiles/MyProject.dir/main.c.o	bd2392e9166faf5a
+44	321	1739269269462743400	CMakeFiles/MyProject.dir/game_logic.c.o	985ba49e5ecfc3f9
+63	349	1739269269480742000	CMakeFiles/MyProject.dir/helper_functions.c.o	9063c1f4ca7a2011
+83	350	1739269269500923700	CMakeFiles/MyProject.dir/layer.c.o	ea7c33370ec1e427
+139	365	1739269269557731100	CMakeFiles/MyProject.dir/neural_network.c.o	1976e196dd8be911
+114	393	1739269269532376200	CMakeFiles/MyProject.dir/matrix_operations.c.o	a95ecf8d9988b2cf
+394	564	1739269269811466900	MyProject.exe	107de7ad4d4debc8
+7	288	1739269450347454900	CMakeFiles/MyProject.dir/main.c.o	bd2392e9166faf5a
+28	290	1739269450367964100	CMakeFiles/MyProject.dir/game_logic.c.o	985ba49e5ecfc3f9
+49	291	1739269450389143600	CMakeFiles/MyProject.dir/helper_functions.c.o	9063c1f4ca7a2011
+72	335	1739269450411775200	CMakeFiles/MyProject.dir/layer.c.o	ea7c33370ec1e427
+121	347	1739269450460802000	CMakeFiles/MyProject.dir/neural_network.c.o	1976e196dd8be911
+95	379	1739269450435666200	CMakeFiles/MyProject.dir/matrix_operations.c.o	a95ecf8d9988b2cf
+380	587	1739269450719963500	MyProject.exe	107de7ad4d4debc8
+7	201	1739269624538182600	CMakeFiles/MyProject.dir/matrix_operations.c.o	a95ecf8d9988b2cf
+203	492	1739269624734428300	MyProject.exe	107de7ad4d4debc8

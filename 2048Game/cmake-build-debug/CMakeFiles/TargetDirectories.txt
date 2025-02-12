@@ -1,0 +1,3 @@
+/cygdrive/c/Users/user/CLionProjects/Solving-2048-with-AI-in-C/2048Game/cmake-build-debug/CMakeFiles/MyProject.dir
+/cygdrive/c/Users/user/CLionProjects/Solving-2048-with-AI-in-C/2048Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/user/CLionProjects/Solving-2048-with-AI-in-C/2048Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,151 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.30.5/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/Platform/CYGWIN-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.30.5/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/Platform/CYGWIN.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/Platform/CYGWIN-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/Platform/CYGWIN-GNU.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/Platform/CYGWIN-windres.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/FindCurses.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/user/AppData/Local/JetBrains/CLion2024.3/cygwin_cmake/share/cmake-3.30.5/Modules/FindPackageMessage.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/cygdrive/c/Users/user/CLionProjects/Solving-2048-with-AI-in-C/2048Game/cmake-build-debug",
+		"source" : "/cygdrive/c/Users/user/CLionProjects/Solving-2048-with-AI-in-C/2048Game"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

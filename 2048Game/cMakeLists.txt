@@ -1,0 +1,30 @@
+cmake_minimum_required(VERSION 3.10)
+
+project(MyProject C)
+
+# Add executable with source files
+add_executable(MyProject
+        main.c
+        game_logic.c
+        helper_functions.c
+        layer.c
+        matrix_operations.c
+        neural_network.c
+        layer.h
+        neural_network.h
+        matrix_operations.h
+        helper_functions.h
+        game_logic.h
+)
+
+# Add include directories
+target_include_directories(MyProject PRIVATE include)
+
+# Find the ncurses package
+find_package(Curses REQUIRED)
+
+# Link ncurses to the project
+target_link_libraries(MyProject PRIVATE ${CURSES_LIBRARIES})
+
+# Include ncurses headers
+target_include_directories(MyProject PRIVATE ${CURSES_INCLUDE_DIR})
