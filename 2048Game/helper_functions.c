@@ -90,3 +90,13 @@ double* vec_sca_mul(int size, double * vector, double scalar){//vector scalar mu
     }
     return result;
 }
+
+double* optimize_board(matptr board) {
+    double* opt_board = (double*) malloc(N*N* sizeof(double));
+    for (int i = 0, k=0; i < N; i++) {
+        for (int j = 0; j < N; j++, k++) {
+            opt_board[k] = board[i][j];
+        }
+    }
+    return opt_board;
+}
